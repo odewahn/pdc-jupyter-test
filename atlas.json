@@ -1,7 +1,10 @@
 {
   "branch": "master",
   "files": [
-    "test.md"
+    "test.md",
+    "ex2.md",
+    "ex3.md",
+    "ex4.md"
   ],
   "formats": {
     "pdf": {
