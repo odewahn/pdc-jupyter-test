@@ -34,7 +34,7 @@ import matplotlib.pyplot as plt
 import matplotlib as mpl
 
 rng = np.random.RandomState(0)
-for marker in ['o', '.', 'x', '+', 'v', '^', '<', '>', 's', 'p', 'd']:
+for marker in ['o', '.', 'x', '+', 'v', 's', 'p', 'd']:
     plt.plot(rng.rand(5), rng.rand(5), marker,
              label="marker='{0}'".format(marker))
 plt.legend(numpoints=1);
