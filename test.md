@@ -1,7 +1,5 @@
 # Visualizing Data
 
-Hi kyle!
-
 This chapter outlines techniques for data visualization in Python.
 For many years, the leading package for scientific visualization has been Matplotlib.
 Though recent years have seen the rise of other tools -- most notably Bokeh http://bokeh.pydata.org/ for browser-based interactive visualization, and VisPy http://vispy.org/ for high-performance visualization based on OpenGL -- matplotlib remains the leading package for the production of publication-quality scientific visualizations.
